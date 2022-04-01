@@ -27,7 +27,7 @@
    Origin Web: https://daooshee.github.io/BMVC2018website/
 
 
-2.VE LOL: 
+2. VE LOL: 
    VE-LOL-H: [Dropbox](https://www.dropbox.com/s/yxod21zouvrqhpk/VE-LOL-H.zip?dl=0) 
    [Baidu Pan(Code: 7c8i)](https://pan.baidu.com/s/12UTjDNOsALUyMzm0rbpQ8Q) 
    
